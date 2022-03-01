@@ -1,0 +1,44 @@
+header{
+	display: flex;
+	justify-content: center;
+	background-image: url(source/img/main-image.jpg);
+	width: 100%;
+	height: 100vh;
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+.logo{
+
+}
+.geo{
+
+}
+.geo-item{
+	
+
+}
+h1,h2,h3,h4,h5{
+	font-family: 'Oxygen', sans-serif;
+	margin: 0px;
+	padding: 0px;
+	color: white;
+}
+h1, h2{
+	text-transform: uppercase;
+}
+.header_top{
+	display: flex;
+	font-display: row;
+	height: 200px;
+}
+.header_top h3, .header_top a{
+	width: 100%;
+	border: 1px solid #000;
+	text-align: center;
+	padding-top: 30px;
+}
